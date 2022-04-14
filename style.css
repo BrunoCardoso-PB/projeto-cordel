@@ -32,8 +32,9 @@ header > h1{
     font-family: var(--fonte2);
     font-size: 10vw;
 }
-section.normal > a{
+section.normal a{
     text-decoration: none;
+    color: black;
 }
 
 header > p{
